@@ -1,4 +1,4 @@
-DEPS = boom
+DEPS = a.out
 compile: main.c 
 	gcc main.c -o $(DEPS)
 
